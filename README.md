@@ -1,7 +1,6 @@
-# Kahoot Clone
+# BTCQuest
 
-This is a clone of the famous online quiz web application "Kahoot!". This application however has only one of the functionalitites of kahoot, that is create a quiz and host it as a challenge by setting start date and time, end date and time and share it with students. This application makes use of chart.js library for generating and displaying charts and dialogFlow for chatbot. This is developed using MEAN stack.<br/>
-There are two roles, namely student and teacher. The teacher can create a quiz and host it as a challenge by setting title, description, start date time, end date time. The students can log in to their account and play the quiz by entering the game PIN shared by the teacher. The student can see his score once the deadline has passed. The teacher can get a consolidated view of all student's performances with the help of charts.
+BTCQuest is a learning platform that uses blockchain technology for a secure educational experience. Token gating ensures only authorized users access content, and students can earn STX, BTC and NFTs to unlock more. An escrow contract handles transactions and ensures funds are secure. BTCQuest is a community that connects students with peers and educators to collaborate and learn together.
 
 ## Development server
 
@@ -17,18 +16,19 @@ To start the Server :
 To run the application on the browser: <br/>
 
 3. Open a new terminal and run cd client/quizzards_client<br/>
-4. ng serve <br/>
+4. ` ng serve ` or ` npm start ` <br/>
 5. Navigate to `http://localhost:4200/`.
 
 ## Features
 
-1. Used JWT for login
+<!-- 1. Used JWT for login -->
+1.user can login
 2. The user can play a quiz only once
 3. On submitting a quiz, the user is redirected to the feedback page. Here the student cannot redirect back to the Quiz.
 4. Chatbot is provided, so new users can easily navigate through the appication
 5. Teachers can get an overview of student's performances with the help of charts.
 
-Landing Page
+<!-- Landing Page
 ![Landing Page](client/quizzards-client/src/assets/img/landing_page.png)
 
 Registration Page :
@@ -70,4 +70,6 @@ View report of challenge
 ![View Report](client/quizzards-client/src/assets/img/student_reports.png)
 
 Join Game
-![Game Pin](client/quizzards-client/src/assets/img/student_join_challenge.png)
+![Game Pin](client/quizzards-client/src/assets/img/student_join_challenge.png) -->
+
+
