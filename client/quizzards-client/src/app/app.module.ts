@@ -38,6 +38,8 @@ import { RatingComponent } from './pages/challenge/post-challenge-feedback/ratin
 import { StudentReportComponent } from './student/student-report/student-report.component';
 
 import { StudentchallengeReportSummaryComponent } from './student/student-report/studentchallenge-report-summary/studentchallenge-report-summary.component';
+import { BuytokenComponent } from './buytoken/buytoken.component';
+import { CashoutComponent } from './cashout/cashout.component';
 
 @NgModule({
   declarations: [
@@ -67,6 +69,8 @@ import { StudentchallengeReportSummaryComponent } from './student/student-report
     RatingComponent,
     StudentchallengeReportSummaryComponent,
     StudentReportComponent,
+    BuytokenComponent,
+    CashoutComponent,
   ],
   imports: [
     BrowserModule,
