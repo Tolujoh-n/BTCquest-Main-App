@@ -9,8 +9,8 @@ Before starting the application, first create a database in mongo named "quizzar
 To start the Server :
 <br/>
 
-1. cd server<br/>
-2. node index.js
+1. `cd server`<br/>
+2. `node index.js`
    <br/>
 
 To run the application on the browser: <br/>
