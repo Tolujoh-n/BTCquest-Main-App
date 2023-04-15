@@ -40,6 +40,7 @@ import { StudentReportComponent } from './student/student-report/student-report.
 import { StudentchallengeReportSummaryComponent } from './student/student-report/studentchallenge-report-summary/studentchallenge-report-summary.component';
 import { BuytokenComponent } from './buytoken/buytoken.component';
 import { CashoutComponent } from './cashout/cashout.component';
+import { ParticipateComponent } from './participate/participate.component';
 
 @NgModule({
   declarations: [
@@ -71,6 +72,7 @@ import { CashoutComponent } from './cashout/cashout.component';
     StudentReportComponent,
     BuytokenComponent,
     CashoutComponent,
+    ParticipateComponent,
   ],
   imports: [
     BrowserModule,

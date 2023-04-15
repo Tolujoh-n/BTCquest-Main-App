@@ -26,10 +26,12 @@ import { StudentReportComponent } from './student/student-report/student-report.
 import { StudentchallengeReportSummaryComponent } from './student/student-report/studentchallenge-report-summary/studentchallenge-report-summary.component';
 import { BuytokenComponent } from './buytoken/buytoken.component';
 import { CashoutComponent } from './cashout/cashout.component'; 
+import { ParticipateComponent } from './participate/participate.component'; 
 
 const routes: Routes = [
   { path: 'buytoken', component: BuytokenComponent },
   { path: 'cashout', component: CashoutComponent },
+  { path: 'participate', component: ParticipateComponent },
   { path: 'login', component: LoginComponent },
   { path: 'register', component: RegistrationComponent },
   { path: 'quiz/create', component: CreateQuizComponent, canActivate: [AuthGuard] },
