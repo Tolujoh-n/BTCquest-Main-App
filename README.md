@@ -15,7 +15,7 @@ To start the Server :
 
 To run the application on the browser: <br/>
 
-3. Open a new terminal and run cd client/quizzards_client<br/>
+3. Open a new terminal and run cd client/quizzards-client<br/>
 4. ` ng serve ` or ` npm start ` <br/>
 5. Navigate to `http://localhost:4200/`.
 
