@@ -1,6 +1,6 @@
-# BTCQuest
+# ThetaQuest
 
-BTCQuest is a learning platform that uses blockchain technology for a secure educational experience. Token gating ensures only authorized users access content, and students can earn STX, BTC and NFTs to unlock more. An escrow contract handles transactions and ensures funds are secure. BTCQuest is a community that connects students with peers and educators to collaborate and learn together.
+ThetaQuest is a learning platform that uses blockchain technology for a secure educational experience. An escrow contract handles transactions and ensures funds are secure. ThetaQuest is a community that connects students with peers and educators to collaborate and learn together.
 
 ## Development server
 
@@ -27,49 +27,3 @@ To run the application on the browser: <br/>
 3. On submitting a quiz, the user is redirected to the feedback page. Here the student cannot redirect back to the Quiz.
 4. Chatbot is provided, so new users can easily navigate through the appication
 5. Teachers can get an overview of student's performances with the help of charts.
-
-<!-- Landing Page
-![Landing Page](client/quizzards-client/src/assets/img/landing_page.png)
-
-Registration Page :
-![Registration Page](client/quizzards-client/src/assets/img/register.png)
-
-Login Page :
-![Login Page](client/quizzards-client/src/assets/img/login.png)
-
-ChatBot
-![Chatbot](client/quizzards-client/src/assets/img/chat_bot.png)
-
-<br/>
-Teachers Side:
-<br/>
-
-Dashboard Page
-![Dashboard Page](client/quizzards-client/src/assets/img/teacher_dashboard.png)
-
-Create Quiz
-![Create Quiz](client/quizzards-client/src/assets/img/teacher_create_questions.png)
-
-Challenge List
-![Challenge List](client/quizzards-client/src/assets/img/teacher_challenges_list.png)
-
-View Feedback recived by Students
-![View Feedback](client/quizzards-client/src/assets/img/teacher_view_feedback_reports.png)
-
-View students performances via Charts
-![View Student Reports](client/quizzards-client/src/assets/img/teacher_view_student_reports.png)
-
-<br/>
-Student Side:
-<br/>
-
-Dashboard Page
-![Dashboard Page](client/quizzards-client/src/assets/img/student_dashboard.png)
-
-View report of challenge
-![View Report](client/quizzards-client/src/assets/img/student_reports.png)
-
-Join Game
-![Game Pin](client/quizzards-client/src/assets/img/student_join_challenge.png) -->
-
-

@@ -87,8 +87,9 @@ const reportRouter=require('./routes/reports');
 const app = express()
 const port = process.env.PORT || 3000
 
+
 app.use(cors())
-app.use(express.json())
+app.use(express.json()) 
 app.use('/api/v1/user',userRouter)
 app.use('/api/v1/student',studentRouter)
 app.use('/api/v1/challenge',challengeRouter)      
